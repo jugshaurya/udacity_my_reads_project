@@ -115,6 +115,7 @@ body,
   font-size: 0;
   border: none;
   outline: none;
+  cursor: pointer;
 }
 
 button:active {
@@ -186,6 +187,7 @@ button:active {
   height: 100%;
   opacity: 0;
   cursor: pointer;
+  padding: 10px;
   font-size: 1em;
 }
 
