@@ -58,9 +58,9 @@ search(query, maxResults);
 
 ## Rubric Guidlines
 
-![](./rubrica.png)
-![](./rubricb.png)
-![](./rubricc.png)
+![](./readmeImages/rubrica.png)
+![](./readmeImages/rubricb.png)
+![](./readmeImages/rubricc.png)
 
 ## Important
 
