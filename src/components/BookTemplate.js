@@ -18,7 +18,7 @@ const BookTemplate = ({ book, handleBookMove }) => {
           ></div>
           <div className="book-shelf-changer">
             <select
-              onClick={(event) => {
+              onChange={(event) => {
                 if (book.shelf && book.shelf === event.target.value) return;
                 handleBookMove(event, book);
               }}
