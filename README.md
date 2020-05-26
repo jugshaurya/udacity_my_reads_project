@@ -1,9 +1,19 @@
-## Udacity MyReads Project
+## Udacity MyReads Project for React Nanodegree
 
 - **AIM** : create a bookshelf app that select and categorize books according to:
-  - you have read,
-  - are currently reading,
-  - or want to read.
+  - what you have read,
+  - what are you currently reading,
+  - or what you want to read.
+
+## Peek a boo!
+
+![](./app.gif)
+
+## Rubric Guidlines
+
+![](./readmeImages/rubrica.png)
+![](./readmeImages/rubricb.png)
+![](./readmeImages/rubricc.png)
 
 # Installation and App Launcing
 
@@ -55,12 +65,6 @@ search(query, maxResults);
 - maxResults: `<Integer>` Due to the nature of the backend server, search results are capped at 20, even if this is set higher.
 - Returns a Promise which resolves to a JSON object containing a collection of book objects.
 - These books do not know which shelf they are on. They are raw results only. You'll need to make sure that books have the correct state while on the search page.
-
-## Rubric Guidlines
-
-![](./readmeImages/rubrica.png)
-![](./readmeImages/rubricb.png)
-![](./readmeImages/rubricc.png)
 
 ## Important
 
